@@ -1,7 +1,7 @@
 # Healthcare Staffing Data Analysis
 !["Dashboard"](preview.png)
 
-This project utilizes SQL to process and analyze healthcare staffing data. The process involves cleaning, standardizing, and transforming nurse staffing records, with a focus on timecard entries, billing information, and shift details. The transformed data is then visualized and analyzed using Power BI.
+This project utilizes MySQL to process and analyze healthcare staffing data. The process involves cleaning, standardizing, and transforming nurse staffing records, with a focus on timecard entries, billing information, and shift details. The transformed data is then visualized and analyzed using Power BI.
 
 &nbsp;
 ## Table of Contents
